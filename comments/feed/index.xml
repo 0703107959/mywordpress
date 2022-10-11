@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments for Du Lịch Biển	</title>
+	Bình luận cho Du Lịch Biển	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://0703107959.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
 		<link>https://0703107959.github.io/mywordpress/2022/08/23/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
