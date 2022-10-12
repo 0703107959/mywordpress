@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Du Lịch Biển</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://0703107959.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 12 Oct 2022 06:20:03 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Mouse</title>
+		<link>https://0703107959.github.io/mywordpress/product/mouse/</link>
+					<comments>https://0703107959.github.io/mywordpress/product/mouse/#respond</comments>
+		
+		<dc:creator><![CDATA[thanhvu]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 06:20:03 +0000</pubDate>
+				<guid isPermaLink="false">https://0703107959.github.io/mywordpress/?post_type=product&#038;p=311</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est. Eos ei nisl graecis, vix aperiri pericula
+
+</div>
+<form class="cart" action="https://otaru.qodeinteractive.com/product/mouse/" enctype="multipart/form-data" method="post">
+<div class="qodef-quantity-buttons quantity"></div>
+</form>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est. Eos ei nisl graecis, vix aperiri pericula
+
+</div>
+<form class="cart" action="https://otaru.qodeinteractive.com/product/mouse/" enctype="multipart/form-data" method="post">
+<div class="qodef-quantity-buttons quantity"></div>
+</form>]]></content:encoded>
+					
+					<wfw:commentRss>https://0703107959.github.io/mywordpress/product/mouse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
