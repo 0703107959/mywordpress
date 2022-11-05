@@ -1,0 +1,104 @@
+
+.depicter-revert.depicter-14 .depicter-section{
+	min-height:150px;
+}
+.depicter-revert.depicter-14 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-14-element-28 .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-14-element-29 .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-14-element-42 svg, .depicter-14-element-42 path{
+	fill:#AAA;
+}
+.depicter-revert .depicter-14-element-41{
+	background-color:transparent;
+	border-width:3px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50%;
+}
+.depicter-revert .depicter-14-element-24{
+	font-size:23px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-14-element-22{
+	font-size:34px;
+	color:#ffffff;
+	font-family:"Space Grotesk";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-14-section-21{
+	background-color:#222222;
+}
+.depicter-revert .depicter-14-element-40{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-14-element-33{
+	font-size:23px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-14-element-31{
+	font-size:34px;
+	color:#ffffff;
+	font-family:"Space Grotesk";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-14-section-30{
+	background-color:#222222;
+}
+.depicter-14-element-39 svg, .depicter-14-element-39 path{
+	fill:#AAA;
+}
+.depicter-revert .depicter-14-element-38{
+	font-size:23px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-14-element-36{
+	font-size:34px;
+	color:#ffffff;
+	font-family:"Space Grotesk";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-14-section-35{
+	background-color:#222222;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert.depicter-14 .depicter-section{
+	min-height:150px;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert.depicter-14 .depicter-section{
+	min-height:150px;
+}
+
+}
